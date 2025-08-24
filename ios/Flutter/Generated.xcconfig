@@ -1,11 +1,12 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/sergejafanasov/flutter
-FLUTTER_APPLICATION_PATH=/Users/sergejafanasov/flutter_projects/flutter_yandex_smartcaptcha
+FLUTTER_ROOT=/Users/drexuri/development/flutter
+FLUTTER_APPLICATION_PATH=/Users/drexuri/Desktop/my-app/captch/flutterYandexSmartCaptcha
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=0.0.7
 FLUTTER_BUILD_NUMBER=0.0.7
+FLUTTER_CLI_BUILD_MODE=debug
 EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
 EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
 DART_OBFUSCATION=false
