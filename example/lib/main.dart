@@ -52,10 +52,10 @@ class _MyHomePageState extends State<MyHomePage> {
     captchaConfig = CaptchaConfig(
         siteKey: siteKey,
         testMode: true,
-        languageCaptcha: 'ru',
+        languageCaptcha: 'en',
         invisible: false,
         isWebView: true,
-        colorBackground: Colors.green
+        colorBackground: const Color.fromARGB(255, 236, 227, 195)
     );
     _controller.onReadyCallback(() {
       debugPrint('SmartCaptcha controller is ready');
